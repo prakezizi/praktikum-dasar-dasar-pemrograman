@@ -1,0 +1,56 @@
+# Compiled files
+*.exe
+*.out
+*.o
+*.obj
+*.a
+*.lib
+*.so
+*.dll
+
+# IDE and Editor files
+.vscode/
+.idea/
+*.cbp
+*.layout
+*.depend
+*.dev
+*.workspace
+*.user
+
+# Dev-C++ files
+Makefile.win
+
+# CLion files
+cmake-build-*/
+
+# Code::Blocks files
+*.layout
+*.depend
+
+# OS files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+*~
+
+# Backup files
+*.bak
+*.swp
+*.tmp
+*~
+
+# Log files
+*.log
+
+# Student submissions (opsional, kalau ada folder khusus)
+submissions/
+tugas-mahasiswa/
+
+# Temporary files
+temp/
+tmp/
